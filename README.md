@@ -1,0 +1,2 @@
+# Blueteam
+抽卡
